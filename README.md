@@ -6,7 +6,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-Let's_DENSE-green.svg)](https://zenodo.org/records/17336134)
 
-本仓库是论文《基于高密度磁触觉阵列的灵巧手感知：多时空深度学习架构与序列长度的对比研究》的官方代码实现。本项目面向机器人多指灵巧手的高频闭环控制需求，全面实现了基于 1D-CNN、LSTM、Temporal Transformer 与 ST-GCN 的四种多时空深度学习感知架构，并提供了完整的模型训练、评估脚本及预训练权重。
+本仓库是论文《基于高密度磁触觉阵列的灵巧手感知：多时空深度学习架构与序列长度的对比研究》的相关图表汇总。本项目面向机器人多指灵巧手的高频闭环控制需求，全面实现了基于 1D-CNN、LSTM、Temporal Transformer 与 ST-GCN 的四种多时空深度学习感知架构，将在近期提供完整的模型训练源码、评估脚本及预训练权重。
 
 ## 核心亮点 (Features)
 
